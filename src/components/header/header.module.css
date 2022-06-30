@@ -1,0 +1,17 @@
+.header{
+  height: 1rem;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+ 
+}
+.header h1{
+  position: absolute;
+  height: 50px;
+  font-size: 4em;
+  color: white;
+  text-transform: capitalize;
+  font-variant: small-caps;
+  text-shadow: 2px 4px 30px black;
+  z-index: 11;
+}
